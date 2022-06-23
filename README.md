@@ -3,8 +3,8 @@
 ## Quick Start
 
 Install Docker and Docker Compose.
-Testing things
-Not in test
+Testing changes
+
 ```
 docker-compose up
 ```
