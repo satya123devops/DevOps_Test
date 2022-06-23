@@ -4,6 +4,7 @@
 
 Install Docker and Docker Compose.
 Testing things
+Not in test
 ```
 docker-compose up
 ```
