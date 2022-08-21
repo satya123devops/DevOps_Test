@@ -69,3 +69,6 @@ jobs:
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v2
       
+    - name: Testing first custom action
+      uses: satya123devops/sample-action-octo-demo@v1
+      
