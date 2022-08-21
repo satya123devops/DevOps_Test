@@ -71,4 +71,6 @@ jobs:
       
     - name: Testing first custom action
       uses: satya123devops/sample-action-octo-demo@v2
+      with:
+          who-to-greet: 'Satya the Octocat'
       
